@@ -1,6 +1,5 @@
-# Implications for AI Development
 
-## Overview
+## Implications for AI Development
 
 Understanding intelligence through the geometric-topological framework outlined in this paper has several significant implications for future AI development:
 

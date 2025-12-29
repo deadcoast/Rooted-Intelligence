@@ -1,6 +1,3 @@
-# Related Work
-
-## Overview
 
 This exploration builds upon several converging streams of research across AI, cognitive science, philosophy of mind, and mathematics. Key influences and related work include:
 
@@ -26,8 +23,6 @@ The mathematical frameworks employed are related to research in topological data
 
 ## Information Theory and Complexity
 
-Information-theoretic perspectives, especially the Kolmogorov complexity [[16.pdf|[16]]] and minimum description length principles developed by Rissanen (1978) [[18.pdf|[17]]] , underpin the discussion of semantic compression and representation. This aligns with more recent work on information bottlenecks in deep learning by Tishby and Zaslavsky (2015) [[18.pdf|[18]]].
+Information-theoretic perspectives, especially the Kolmogorov complexity[[16.pdf|[16] ]] and minimum description length principles developed by Rissanen (1978)[[17.pdf|[17] ]] , underpin the discussion of semantic compression and representation. This aligns with more recent work on information bottlenecks in deep learning by Tishby and Zaslavsky (2015)[[18.pdf|[18] ]].
 
 My work differs from these precedents by synthesizing technical and philosophical perspectives into a unified framework specifically focused on understanding the "internal language" of AI systems. While much research has focused on improving AI performance or drawing analogies to human cognition, fewer studies have explored the alternative cognitive architecture that emerges from vector space operations as a legitimate form of intelligence in its own right.
-
----
